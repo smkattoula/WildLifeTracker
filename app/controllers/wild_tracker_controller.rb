@@ -1,0 +1,2 @@
+class WildTrackerController < ApplicationController
+end
